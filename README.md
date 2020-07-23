@@ -4,9 +4,10 @@
 
 ### Infrastruktur :
 
- * [Statically](https://statically.io) sebagai CDN
- * [Bootstrap](https://getbootstrap.com) sebagai UI Utama
+ * [Statically](https://statically.io)
+ * [Bootstrap](https://getbootstrap.com)
+ * [Stisla](https://getstisla.com/)
 
 ### Penggunaan :
 
- 1 List ASSET_URL adalah https://cdn.statically.io/gh/astoart-dev/ui/master/
+ 1. ASSET_URL adalah https://cdn.statically.io/gh/astoart-dev/ui/master/

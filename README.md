@@ -1,8 +1,12 @@
 # Made with :heart: located in :id:
 
-> This is company purpose, so do not **clone** the repository.
+> **Do not clone** this repository, because it's COMPANY purpose.
 
 ### AstoArt Founder :
 
  * [wahyuwons](https://github.com/wahyuwons)
  * [mjamilasfihani](https://github.com/mjamilasfihani)
+
+### Looking for Job :
+
+We will announce it later, here is some :pizza:.

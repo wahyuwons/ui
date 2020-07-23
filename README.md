@@ -9,4 +9,4 @@
 
 ### Open Position :
 
-Please enjoy this :pizza:. We will announce it later :grin:.
+Please take this :taco:. We will announce it soon :grin:.

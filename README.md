@@ -8,4 +8,4 @@
  * [Bootstrap](https://getbootstrap.com)
  * [Stisla](https://getstisla.com/)
 
-### NOTE : You can't use this Repository for your Project.
+### NOTE : YOU CAN NOT USE THIS REPOSITORY FOR YOUR PROJECT (IT'S FOR OWN PURPOSE)

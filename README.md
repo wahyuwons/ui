@@ -7,6 +7,7 @@
  * [wahyuwons](https://github.com/wahyuwons)
  * [mjamilasfihani](https://github.com/mjamilasfihani)
 
-### Looking for Job :
+### Open Position :
 
-We will announce it later, here is some :pizza:.
+Please enjoy this :pizza:
+We will announce it later.

@@ -1,4 +1,4 @@
-# Made with :heart:. Born in :id:
+# Made with :heart: located in :id:
 
 > This is company repository, so do not clone "it".
 
@@ -7,7 +7,7 @@
  * [Statically](https://statically.io)
  * [Bootstrap](https://getbootstrap.com)
 
-### Founded by :
+### Created by :
 
  * [wahyuwons](https://github.com/wahyuwons)
  * [mjamilasfihani](https://github.com/mjamilasfihani)

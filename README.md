@@ -1,4 +1,4 @@
-# Made with :heart: located in :id:
+# Made with :heart:. Born in :id:
 
 > This is company repository, so do not clone "it".
 

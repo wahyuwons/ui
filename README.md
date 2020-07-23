@@ -7,6 +7,6 @@
  * [wahyuwons](https://github.com/wahyuwons)
  * [mjamilasfihani](https://github.com/mjamilasfihani)
 
-### Open Recruitment :
+### Job Position :
 
 Please take this :taco:. We will announce it soon :grin:.

@@ -1,4 +1,4 @@
-# User Interface | From :heart: To :id:
+# User Interface | From :heart: For :id:
 
 > This is company repository, so do not clone "it".
 

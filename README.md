@@ -1,9 +1,11 @@
 # User Interface
 
-### Our Soul :
+> Versi Konsep 1.0
 
- *[Statically](https://statically.io) as CDN
- *[Bootstrap](https://getbootstrap.com) as Main UI
+### Infrastruktur :
 
-### Basic Guides :
+ * [Statically](https://statically.io) sebagai CDN
+ * [Bootstrap](https://getbootstrap.com) sebagai UI Utama
+
+### Penggunaan :
 

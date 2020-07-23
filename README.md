@@ -1,6 +1,6 @@
 # User Interface
 
->CDN Provided by https://statically.io
+> CDN Provided by [Statically](https://statically.io)
 
-###Basic Guides :
+### Basic Guides :
 

@@ -7,6 +7,6 @@
  * [wahyuwons](https://github.com/wahyuwons)
  * [mjamilasfihani](https://github.com/mjamilasfihani)
 
+---
 
-
-Copyright 2020 [AstoArt](https://astoart.com)
+### Copyright 2020 [AstoArt](https://astoart.com)

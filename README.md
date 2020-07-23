@@ -1,11 +1,16 @@
 # User Interface
 
-> This is company repository or personal use :heart:
+> This is company repository, so do not clone "it".
 
 ### Supported by :
 
  * [Statically](https://statically.io)
  * [Bootstrap](https://getbootstrap.com)
- * [Stisla](https://getstisla.com/)
 
-### DO NOT USE THIS REPOSITORY FOR YOUR PROJECT.
+### AstoArt founder :
+
+[mjamilasfihani](https://github.com/mjamilasfihani) & [wahyuwons](https://github.com/wahyuwons)
+
+> Dari kami untuk Indonesia :heart:
+
+Copyright 2020 [AstoArt](https://astoart.com)

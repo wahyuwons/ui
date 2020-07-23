@@ -9,3 +9,4 @@
 
 ### Penggunaan :
 
+ 1 ASSET_URL adalah https://cdn.statically.io/gh/astoart-dev/ui/master/

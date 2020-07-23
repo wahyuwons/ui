@@ -2,16 +2,9 @@
 
 > This is company repository, so do not clone "it".
 
-### Supported by :
-
- * [Statically](https://statically.io)
- * [Bootstrap](https://getbootstrap.com)
-
 ### Created by :
 
  * [wahyuwons](https://github.com/wahyuwons)
  * [mjamilasfihani](https://github.com/mjamilasfihani)
-
----
 
 Copyright 2020 [AstoArt](https://astoart.com)

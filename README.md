@@ -7,9 +7,12 @@
  * [Statically](https://statically.io)
  * [Bootstrap](https://getbootstrap.com)
 
-### AstoArt founder :
+### Founded by :
 
-[mjamilasfihani](https://github.com/mjamilasfihani) & [wahyuwons](https://github.com/wahyuwons)
+ * [wahyuwons](https://github.com/wahyuwons)
+ * [mjamilasfihani](https://github.com/mjamilasfihani)
+
+---
 
 > Dari kami untuk Indonesia :heart:
 

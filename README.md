@@ -1,7 +1,6 @@
 # User Interface
 
-## Menggunakan CDN
-Menggunakan CDN Statically
+>CDN Provided by https://statically.io
 
-## Cara penggunaan
+###Basic Guides :
 

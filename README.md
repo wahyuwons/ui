@@ -1,4 +1,4 @@
-# User Interface
+# User Interface | For Indonesia :heart:
 
 > This is company repository, so do not clone "it".
 
@@ -13,7 +13,5 @@
  * [mjamilasfihani](https://github.com/mjamilasfihani)
 
 ---
-
-> Dari kami untuk Indonesia :heart:
 
 Copyright 2020 [AstoArt](https://astoart.com)

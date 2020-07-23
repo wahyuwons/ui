@@ -1,11 +1,11 @@
 # User Interface
 
-> Versi Konsep 1.0
+> This is company repository or personal use :heart:
 
-### Infrastruktur :
+### Supported by :
 
  * [Statically](https://statically.io)
  * [Bootstrap](https://getbootstrap.com)
  * [Stisla](https://getstisla.com/)
 
-### NOTE : YOU CAN NOT USE THIS REPOSITORY FOR YOUR PROJECT (IT'S FOR OWN PURPOSE)
+### DO NOT USE THIS REPOSITORY FOR YOUR PROJECT.
